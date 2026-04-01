@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Nexora",
   "VITE_SEO_SITE_DESCRIPTION": "A high-performance DEX built for speed and precision execution",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/nexora-9527/",
+  "VITE_SEO_SITE_URL": "https://nexora.network",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@Nexoradex_Sol",
